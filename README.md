@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abhishek Kumar</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 
-<img width="950" height="450" alt="lord-ram" src="https://user-images.githubusercontent.com/114686528/217554375-183e29a2-049d-4f05-bae1-d8c3655bd0d5.png">                 
+<img width="950" height="350" alt="lord-ram" src="https://user-images.githubusercontent.com/114686528/217554375-183e29a2-049d-4f05-bae1-d8c3655bd0d5.png">                 
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/http://abhishekkumarme.github.io/to-do-list-by-react.git) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abhishek-singh-7147b4254) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@Suryabanshiabhi) 
