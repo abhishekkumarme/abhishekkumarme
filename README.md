@@ -15,8 +15,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=abhishekkumarme&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekkumarme&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=@Suryabanshiabhi)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
+
 
 ---
 
