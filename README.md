@@ -4,7 +4,7 @@
    ![Untitled design (2)](https://user-images.githubusercontent.com/114686528/218033495-e08d4bd5-3207-410f-99fd-5ccddddf8124.jpg)             
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/abhishek_suryabanshi_6644/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abhishek-singh-7147b4254) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@Suryabanshiabhi) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/abhishek.suryabanshi_/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abhishek-singh-7147b4254) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@Suryabanshiabhi) 
 
 [![](https://visitcount.itsvg.in/api?id=abhishekkumarme&icon=0&color=0)](https://visitcount.itsvg.in)
 
