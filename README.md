@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abhishek Kumar</h1>
-<h3 align="center">A passionate Full Stack Developer from India</h3>
+<h3 align="center">A passionate Full Stack Developer and DATA Scientist from India</h3>
 
    ![Untitled design (2)](https://user-images.githubusercontent.com/114686528/218033495-e08d4bd5-3207-410f-99fd-5ccddddf8124.jpg)             
 
